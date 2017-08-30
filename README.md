@@ -1,5 +1,10 @@
 # 01-Hello-Class
 
+This is the compleated first assignment of ILS-Z399, and contains the answers to what is outlined below.
+Plus some small talk. 
+
+-------------------------------------------------------------------------------------------------------------------
+
 Hello, class! This is the first assignment for ILS-Z399. The requirements for this assignment are as follows:
 
 Write a Python program that displays answers to the following questions:
